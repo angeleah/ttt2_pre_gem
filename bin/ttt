@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+$: << File.expand_path(File.dirname(__FILE__) + '/../lib/')
+require "console/runner"
+require "console/ui"
+ 
+ttt = Runner.new(Ui.new)
+
+ttt.start_the_game
