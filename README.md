@@ -1,6 +1,6 @@
 Console Tic tac toe
 ===================
-This is a command line version of the unbeatable ruby tic tac toe before I packaged the core game logic up into a gem.
+This is a command line version of the ruby tic tac toe before I packaged the core game logic up into a gem.  You can play human vs. human, computer vs computer, or human vs computer.  It is unbeatable when playing the computer. Play two computers against eachother to see them always draw!  This uses the minimax algorithm to make move decisions.
 
 Usage:
 ------
